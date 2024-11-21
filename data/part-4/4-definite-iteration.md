@@ -116,7 +116,7 @@ o
 *
 n
 *
-
+</in-browser-programming-exercise>
 </sample-output>
 
 **NB:** this exercise doesn't ask you to write any functions, so you should __not__ place any code within an `if __name__ == "__main__"` block.
